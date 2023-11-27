@@ -1,0 +1,21 @@
+href,language_num,sex,birth_place,native_language,other_languages,age_sex,age_of_english_onset,english_learning_method,english_residence,length_of_english_residence,age
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=61,english1,male,"['pennsylvania,', 'usa']","english
+(eng)","['mandarin', '']","['42,', 'male', '']",0.0,naturalistic,['usa'],41.0,  42
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=77,english2,female,"['birmingham,', 'uk']","english
+(eng)","['german', 'mandarin', '']","['30,', 'female', '']",0.0,naturalistic,['uk'],30.0,  30
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=88,english3,female,"['brisbane,', 'australia']","english
+(eng)",['none'],"['26,', 'female', '']",0.0,naturalistic,['australia'],26.0,  26
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=99,english4,female,"['bay,', 'jamaica']","english
+(eng)","['spanish', 'french', '']","['53,', 'female', '']",0.0,naturalistic,"['jamaica,usa']",53.0,  53
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=110,english5,male,"['virginia,', 'usa']","english
+(eng)",['none'],"['62,', 'male', '']",0.0,naturalistic,['usa'],62.0,  62
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=121,english6,female,"['york,', 'usa']","english
+(eng)","['french', 'spanish', '']","['45,', 'female', '']",0.0,naturalistic,['usa'],45.0,  45
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=132,english7,male,"['mississippi,', 'usa']","english
+(eng)","['spanish', 'french', '']","['52,', 'male', '']",0.0,naturalistic,['usa'],52.0,  52
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=143,english8,female,"['perth,', 'australia']","english
+(eng)","['french', '']","['21,', 'female', '']",0.0,naturalistic,"['australia,usa']",4.0,  21
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=154,english9,female,"['texas,', 'usa']","english
+(eng)","['spanish', '']","['48,', 'female', '']",0.0,naturalistic,['usa'],48.0,  48
+http://accent.gmu.edu/browse_language.php?function=detail&speakerid=62,english10,female,"['iowa,', 'usa']","english
+(eng)",['none'],"['35,', 'female', '']",0.0,naturalistic,['usa'],35.0,  35
